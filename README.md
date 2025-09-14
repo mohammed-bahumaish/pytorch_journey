@@ -4,7 +4,7 @@ Welcome to my PyTorch learning journey! This repository contains step-by-step ha
 
 ## Learning Journey Structure
 
-### 📚 Current Tutorials
+### 📚 Current Notebooks
 
 1. **Linear Regression** (`1-linear-regression/`)
    - Building your first neural network
