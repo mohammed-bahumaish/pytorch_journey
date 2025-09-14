@@ -1,6 +1,6 @@
 # PyTorch Journey
 
-Welcome to my PyTorch learning journey! This repository contains step-by-step hands-on PyTorch notebooks documenting my progression from PyTorch basics to more advanced neural network concepts.
+Welcome to my PyTorch learning journey! This repository contains step-by-step hands-on PyTorch notebooks documenting my learning journey from PyTorch basics to more advanced neural network concepts.
 
 ## Learning Journey Structure
 
