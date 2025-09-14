@@ -26,7 +26,7 @@ Welcome to my PyTorch learning journey! This repository contains step-by-step ha
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mohammed-bahumaish/pytorch_journey
    cd pytorch_journey
    ```
 
